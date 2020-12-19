@@ -74,3 +74,25 @@ figcaption strong{
     margin: 8px 0;
     display: block;
 }
+
+/* Main Style*/
+header{
+    position: relative;
+    width: auto;
+    max-width: 900px;
+    margin: 0 auto 20px auto;
+}
+
+header h1{
+    margin: 36px 0 0 0;
+    font-size: 56px;
+    color:#4e007a;
+    font-family: 'Chango', cursive;
+}
+
+header p{
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #443b4a;
+    margin-left: 132px;
+}
