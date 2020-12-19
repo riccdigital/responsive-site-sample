@@ -150,8 +150,9 @@ nav ul li a:hover{
 #slider-content2 p,
 #slider-content3 p{
     margin: 0 0 28px 0;
-    color: #9571AB;
+    color: #4e007a;
     padding: 12px 16px;
-    border-radius: 4px;
+    border-radius: 0 8px 0 8px;
+    background-color: #00d2da3d;
 }
 
