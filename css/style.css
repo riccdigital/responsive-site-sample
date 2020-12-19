@@ -112,3 +112,16 @@ nav ul li a {
 nav ul li a:hover{
     color:red;
 }
+
+/*Slider*/
+#slider-content1,
+#slider-content2,
+#slider-content3{
+    line-height: 24px;
+    width: 360px;
+    position: absolute;
+    top: 16%;
+    left: 16%;
+    z-index: 11;
+    display: none;
+}
