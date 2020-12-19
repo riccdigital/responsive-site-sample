@@ -46,3 +46,31 @@ input[type=submit]{
 }
 
 /*paragraphs and anchors*/
+p{
+    margin: 6px 0;
+    line-height: 24px;
+}
+
+a{
+    text-decoration: none;
+    color: #4e007a;
+    transition: color .5s ease;
+}
+
+strong{
+    font-weight: bold;
+}
+
+figcaption{
+    line-height: 24px;
+    font-size: 16px;
+    width: 200px;
+    
+}
+
+figcaption strong{
+    border-bottom: 1px solid #008FDE;
+    padding-bottom: 8px;
+    margin: 8px 0;
+    display: block;
+}
