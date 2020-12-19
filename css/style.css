@@ -4,7 +4,7 @@
     --Freesia:#C8A741;
     --Seashell:#EACCAD;
 }*/
-
+/*global settings*/
 root{
     --Purple:#9571AB;
     --Turquoise:#38CCED;
@@ -12,3 +12,37 @@ root{
     --BlueGrotto:#008FDE;
 
 }
+*,
+html,
+body{
+    font-family: 'Ubuntu', sans-serif;
+    border-top:#9571AB;
+    background-color: #A4D8FB;
+    color: #000000;
+}
+
+/*inputs*/
+
+input{
+    font-size: 16px;
+    padding: 8px;
+    outline: 0;
+    border: 0;
+    width: 280px;
+    background-color: #ffffff;
+    border: 1px solid #9571AB;
+    border-radius: 6px;
+}
+
+input[type=submit]{
+    width: auto;
+    padding: 6px 16px;
+    line-height: 24px;
+    text-shadow: none;
+    cursor: pointer;
+    box-shadow: none;
+    background-color: #9571AB;
+    color: white;
+}
+
+/*paragraphs and anchors*/
